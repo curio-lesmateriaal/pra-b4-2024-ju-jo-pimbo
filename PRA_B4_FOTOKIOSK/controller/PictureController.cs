@@ -11,7 +11,7 @@ namespace PRA_B4_FOTOKIOSK.controller
 {
     public class PictureController
     {
-        // De window die we laten zien op het scherm
+        // De window die we laten zien op het sc
         public static Home Window { get; set; }
 
 
